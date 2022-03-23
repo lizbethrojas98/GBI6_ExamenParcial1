@@ -28,11 +28,13 @@
 ## Descripción de datos 
 
 ### data: 
-#### Contiene capturas de pantalla desde el ejercicio 1 hasta el 8
+#### Contiene capturas de pantalla desde el ejercicio 1 hasta el 10, ademas de los git push de cada ejercicio, Tambien encontramos un archivo xls el cual contiene datos utilizados en el ejercicio 10. 
+#### Ademas, el archico test2 contiene una subcarpeta con un archivo txt. 
 
 
 ### Programa utilizados :
 
+#### git hub
 #### git bash 
 #### Jupyter Notebbok
 
